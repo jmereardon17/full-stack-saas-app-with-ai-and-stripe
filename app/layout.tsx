@@ -11,7 +11,7 @@ const IBMPlex = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Imaginify',
+  title: 'Full Stack SaaS App With AI and Stripe',
   description: 'AI-powered image generator'
 };
 
